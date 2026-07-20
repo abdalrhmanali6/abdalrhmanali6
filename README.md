@@ -1,6 +1,12 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="Abdalrahman Ali Banner" width="100%" />
-</p>
+<table>
+<tr>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
+
+</td>
+
+<td width="60%" align="center">
 
 <h1 align="center">Hi 👋, I'm Abdalrahman Ali</h1>
 
@@ -9,10 +15,18 @@ A passionate Frontend Developer building modern web applications with React, Nex
 </h3>
 
 <p align="center">
+
 <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications;Always+Learning+New+Technologies">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+
 </a>
+
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -190,25 +204,15 @@ https://cinmaverse.vercel.app/
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdalrhmanali6&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=abdalrhmanali6&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalrhmanali6&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdalrhmanali6&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=abdalrhmanali6&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abdalrhmanali6&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
