@@ -58,7 +58,7 @@ A passionate Frontend Developer building modern web applications with React, Nex
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://abdalrahmanali.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -250,11 +250,11 @@ https://www.linkedin.com/in/abdalrahman-ali/
 
 🌐 **Portfolio**
 
-> 🚧 Coming Soon
+https://abdalrahmanali.vercel.app/
 
 📄 **Resume**
 
-> 🔗 Add Resume Link Here
+https://abdalrahmanali.vercel.app/Abdalrahman_CV.pdf
 
 ---
 
