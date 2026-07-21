@@ -254,7 +254,7 @@ https://abdalrahmanali.vercel.app/
 
 📄 **Resume**
 
-https://abdalrahmanali.vercel.app/Abdalrahman_CV.pdf
+https://abdalrahmanali.vercel.app/Abdalrahman_Ali_CV.pdf
 
 ---
 
